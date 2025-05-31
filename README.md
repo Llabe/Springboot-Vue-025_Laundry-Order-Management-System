@@ -1,4 +1,4 @@
-# springboot057洗衣店订单管理系统 / springboot-Laundry Order Management System
+# springboot 洗衣店订单管理系统 / springboot-Laundry Order Management System
 
 
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-2.7+-brightgreen)
@@ -61,7 +61,6 @@
 **管理员账号**：abo / abo  
 **前台地址**：http://localhost:8080/springboot4691l/front/index.html  
 **数据库配置**：修改`application.yml`中的数据库连接信息（url/username/password）
-```
 
 # 项目实际截图：
 ## 登录：
